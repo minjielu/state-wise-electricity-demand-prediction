@@ -6,3 +6,7 @@ The prediction can be used by the electricity authorities to make better resourc
 
 ## 2. Data
 The hourly electricity operation data are obtained through the API provided by the Energy Information Administration website.
+
+'''
+http://api.eia.gov/series/?api_key={}&series_id={}&start={}&end={}
+'''
