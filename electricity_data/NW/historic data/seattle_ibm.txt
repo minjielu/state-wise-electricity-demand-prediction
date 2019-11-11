@@ -1,0 +1,160 @@
+9:30 PM
+MON
+Clear	44°	41°
+0%
+74%	NNE 4 mph
+10:00 PM
+MON
+Clear	43°	41°
+0%
+74%	NE 4 mph
+11:00 PM
+MON
+Clear	42°	39°
+0%
+69%	ENE 5 mph
+12:00 AM
+TUE
+Clear	41°	37°
+0%
+65%	E 5 mph
+1:00 AM
+TUE
+Clear	39°	34°
+0%
+55%	E 7 mph
+2:00 AM
+TUE
+Clear	37°	32°
+0%
+51%	E 6 mph
+3:00 AM
+TUE
+Clear	36°	31°
+0%
+49%	E 6 mph
+4:00 AM
+TUE
+Clear	35°	30°
+0%
+47%	E 5 mph
+5:00 AM
+TUE
+Clear	35°	30°
+0%
+44%	E 5 mph
+6:00 AM
+TUE
+Clear	34°	30°
+0%
+45%	E 4 mph
+7:00 AM
+TUE
+Clear	33°	30°
+0%
+48%	E 4 mph
+8:00 AM
+TUE
+Sunny	33°	29°
+0%
+46%	E 4 mph
+9:00 AM
+TUE
+Sunny	35°	31°
+0%
+42%	ENE 4 mph
+10:00 AM
+TUE
+Sunny	38°	34°
+0%
+35%	E 5 mph
+11:00 AM
+TUE
+Sunny	40°	37°
+0%
+31%	ENE 4 mph
+12:00 PM
+TUE
+Sunny	42°	39°
+0%
+28%	ENE 5 mph
+1:00 PM
+TUE
+Sunny	44°	41°
+0%
+26%	ENE 5 mph
+2:00 PM
+TUE
+Sunny	46°	44°
+0%
+24%	ENE 5 mph
+3:00 PM
+TUE
+Sunny	47°	45°
+0%
+24%	ENE 5 mph
+4:00 PM
+TUE
+Sunny	47°	45°
+0%
+23%	NE 4 mph
+5:00 PM
+TUE
+Sunny	46°	44°
+0%
+27%	NNE 5 mph
+6:00 PM
+TUE
+Clear	44°	42°
+0%
+31%	N 4 mph
+7:00 PM
+TUE
+Clear	42°	40°
+0%
+37%	NNE 3 mph
+8:00 PM
+TUE
+Clear	40°	40°
+0%
+43%	NE 2 mph
+9:00 PM
+TUE
+Clear	39°	39°
+0%
+47%	NE 2 mph
+10:00 PM
+TUE
+Clear	38°	38°
+0%
+48%	ENE 2 mph
+11:00 PM
+TUE
+Clear	36°	36°
+0%
+51%	ENE 2 mph
+12:00 AM
+WED
+Clear	35°	35°
+0%
+56%	ENE 2 mph
+1:00 AM
+WED
+Clear	34°	34°
+0%
+58%	ENE 2 mph
+2:00 AM
+WED
+Clear	33°	33°
+0%
+58%	ENE 3 mph
+3:00 AM
+WED
+Clear	33°	33°
+0%
+58%	ENE 2 mph
+4:00 AM
+WED
+Clear	32°	32°
+0%
+59%	ENE 2 mph

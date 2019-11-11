@@ -1,0 +1,160 @@
+10:45 PM
+MON
+Mostly Cloudy	34°	27°
+10%
+41%	NW 8 mph
+11:00 PM
+MON
+Partly Cloudy	34°	27°
+5%
+42%	NW 9 mph
+12:00 AM
+TUE
+Partly Cloudy	32°	24°
+5%
+45%	NW 8 mph
+1:00 AM
+TUE
+Partly Cloudy	31°	23°
+0%
+48%	NW 9 mph
+2:00 AM
+TUE
+Mostly Clear	29°	20°
+0%
+54%	NW 9 mph
+3:00 AM
+TUE
+Clear	28°	18°
+0%
+60%	NW 12 mph
+4:00 AM
+TUE
+Clear	27°	16°
+0%
+59%	NW 13 mph
+5:00 AM
+TUE
+Clear	27°	15°
+0%
+47%	NW 14 mph
+6:00 AM
+TUE
+Clear	25°	12°
+0%
+44%	NW 17 mph
+7:00 AM
+TUE
+Clear	25°	13°
+0%
+40%	NW 15 mph
+8:00 AM
+TUE
+Clear	25°	14°
+0%
+38%	NNW 13 mph
+9:00 AM
+TUE
+Mostly Sunny	25°	14°
+0%
+39%	NNW 12 mph
+10:00 AM
+TUE
+Mostly Sunny	27°	15°
+5%
+34%	N 13 mph
+11:00 AM
+TUE
+Partly Cloudy	28°	19°
+5%
+30%	NNE 10 mph
+12:00 PM
+TUE
+Partly Cloudy	30°	22°
+5%
+28%	N 8 mph
+1:00 PM
+TUE
+Mostly Sunny	32°	26°
+0%
+26%	NW 6 mph
+2:00 PM
+TUE
+Sunny	33°	28°
+0%
+21%	NW 6 mph
+3:00 PM
+TUE
+Sunny	35°	30°
+0%
+18%	WNW 7 mph
+4:00 PM
+TUE
+Sunny	36°	30°
+0%
+16%	WNW 9 mph
+5:00 PM
+TUE
+Sunny	36°	29°
+0%
+15%	WNW 10 mph
+6:00 PM
+TUE
+Sunny	35°	28°
+0%
+16%	WNW 8 mph
+7:00 PM
+TUE
+Clear	32°	26°
+0%
+20%	WNW 5 mph
+8:00 PM
+TUE
+Clear	28°	24°
+0%
+24%	W 4 mph
+9:00 PM
+TUE
+Clear	25°	21°
+0%
+28%	WSW 3 mph
+10:00 PM
+TUE
+Clear	24°	20°
+0%
+34%	S 3 mph
+11:00 PM
+TUE
+Clear	22°	16°
+0%
+37%	SSE 4 mph
+12:00 AM
+WED
+Clear	21°	15°
+0%
+38%	SE 5 mph
+1:00 AM
+WED
+Clear	20°	13°
+0%
+39%	SE 6 mph
+2:00 AM
+WED
+Clear	19°	12°
+0%
+40%	SE 6 mph
+3:00 AM
+WED
+Clear	19°	10°
+0%
+41%	SE 6 mph
+4:00 AM
+WED
+Clear	18°	8°
+0%
+43%	SE 7 mph
+5:00 AM
+WED
+Clear	18°	8°
+0%
+45%	SE 7 mph

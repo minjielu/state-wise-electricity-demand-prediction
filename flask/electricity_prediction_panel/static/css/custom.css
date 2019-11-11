@@ -1,0 +1,27 @@
+#number-projects-nd {
+    font-size: 30px;
+}
+
+#total-donations-nd {
+    font-size: 30px;
+}
+
+#percentage-increase-nd {
+    font-size: 15px;
+    position: relative;
+    top: 17px;
+    left: 10px;
+}
+
+.union-display {
+  display: inline-block;
+}
+
+.dc-chart g.row text {
+    fill: black;
+    font-size: 12px;
+}
+
+.dc-chart path.line {
+    stroke-width: 2px;
+}
