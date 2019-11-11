@@ -22,6 +22,7 @@ Weather forecast data are scraped either from the [NOAA website](https://forecas
 **Features:**
 
 Time features: 24 hours, Weekday, Month. These features can decide whether lights are on, factories are running.
+
 Exponentially smoothed temperatures: This is motivated from the fact that electricity demands are smooth but temperatures can fluctuate suddenly.
 
 **Hyperparameters:**
