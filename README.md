@@ -49,4 +49,4 @@ It can be seen that my model is comparable to the prediction given by the EIA fo
 
 And here is a demo video .
 
-And here is an interactive visualization panel on Heroku. It displays: 1. demands and predictions, 2. R2 score of last week to monitor prediction reliability, 3. peak demand change, 4. boxplots of tomorrow's and today's temperatures for reference.
+And here is an [interactive visualization panel](https://murmuring-fjord-30196.herokuapp.com/) on Heroku. The web app pulls data from a MongoDB. It displays: 1. demands and predictions, 2. R2 score of last week to monitor prediction reliability, 3. peak demand change, 4. boxplots of tomorrow's and today's temperatures for reference.
