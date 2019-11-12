@@ -18,6 +18,8 @@ Weather forecast data are scraped either from the [NOAA website](https://forecas
 
 ## 3. Methods
 
+![](/images/methods.png)
+
 ### a. XGBoost
 **Features:**
 
@@ -25,6 +27,26 @@ Time features: 24 hours, Weekday, Month. These features can decide whether light
 
 Exponentially smoothed temperatures: This is motivated from the fact that electricity demands are smooth but temperatures can fluctuate suddenly.
 
-**Hyperparameters:**
-
 **Post-hoc correction:**
+
+As population or industrial structure change every year, electricity demands change as well. It's problematic to train a model using the data of three preceding years. However, coincidently, the raw output of the XGBoost model can be linearly transferred to provide a perfect prediction.
+
+### b. Time Series model
+
+The time series model has three components: 1. A linear increasing trend. 2. A periodic model (Periods and harmonics: year, year/2, year/3, week, week/2, day, day/2, day/3, day/4). 3. An AR(2) model (Determined by the partial autocorrelation of the residual).
+
+### c. Ensemble
+
+The XGBoost model and the time series model are assembled by a random forest. Except for the prediction given by the two models, other features are: 24 hours, month, weekday, demand yesterday, demand the day before yesterday, difference between the two demands, temperatures yesterday, temperatures the day before yesterday, difference between the two temperatures, difference between the predictions given by the XGBoost and the time series model.
+
+## 4. Results and Visualization
+
+The following graphs are predictions using weather forecast data.
+
+![](images/nw.png) ![](images/texas.png)
+
+It can be seen that my model is comparable to the prediction given by the EIA for Texas and better for Northwest.
+
+And here is a demo video .
+
+And here is an interactive visualization panel on Heroku. It displays: 1. demands and predictions, 2. R2 score of last week to monitor prediction reliability, 3. peak demand change, 4. boxplots of tomorrow's and today's temperatures for reference.
