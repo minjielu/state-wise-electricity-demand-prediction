@@ -43,7 +43,7 @@ The XGBoost model and the time series model are assembled by a random forest. Ex
 
 The following graphs are predictions using weather forecast data.
 
-<img src="images/texas.png" width="400" height="200" /> <img src="images/nw.png" width="400" height="200" />
+<img src="images/texas.png" width="400" height="300" /> <img src="images/nw.png" width="400" height="300" />
 
 It can be seen that my model is comparable to the prediction given by the EIA for Texas and better for Northwest.
 
