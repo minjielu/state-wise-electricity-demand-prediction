@@ -18,7 +18,7 @@ Weather forecast data are scraped either from the [NOAA website](https://forecas
 
 ## 3. Methods
 
-![](/images/methods.png)
+<img src="images/methods.png" width="200" height="100" />
 
 ### a. XGBoost
 **Features:**
@@ -43,7 +43,7 @@ The XGBoost model and the time series model are assembled by a random forest. Ex
 
 The following graphs are predictions using weather forecast data.
 
-![](images/nw.png) ![](images/texas.png)
+<img src="images/texas.png" width="200" height="100" /> <img src="images/nw.png" width="200" height="100" />
 
 It can be seen that my model is comparable to the prediction given by the EIA for Texas and better for Northwest.
 
